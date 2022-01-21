@@ -1,4 +1,4 @@
-let n = '9';
+let n = '5';
 switch(n){
     case '0': console.log('zero');
     break;
